@@ -1,6 +1,6 @@
 ![logo of nuxt session](./.github/session.png)
 
-# nuxt-session
+# nuxt-session FS Storage
 
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
